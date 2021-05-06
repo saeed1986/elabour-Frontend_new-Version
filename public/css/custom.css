@@ -1,0 +1,40 @@
+body {
+    min-height: 100vh;
+    position: relative;
+    margin: 0;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    color: #fff;
+    width: 100%;
+}
+.checkbox input[type='checkbox']{
+    margin-right: 5px;
+}
+
+.vdp-datepicker__calendar span{
+    color: #000 !important;
+}
+
+.bg-gray{
+    background-color: #6f898d!important;
+}
+.bg-gray-dark{
+    background-color: #46575a!important;
+}
+
+.card-header:first-child{
+    font-weight: 600;
+}
+.autocomplete-input{
+    border-radius: 0 !important;
+}
+.type-change{
+    border-radius: .25rem 0 0 .25rem;
+    height: inherit
+}
+.list-group-flush span {
+    font-weight: 900;
+}
